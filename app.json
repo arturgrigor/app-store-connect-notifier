@@ -12,6 +12,7 @@
   "repository": "https://github.com/rogerluan/app-store-connect-notifier",
   "logo": "https://raw.githubusercontent.com/rogerluan/app-store-connect-notifier/master/docs/assets/app-icon.png",
   "success_url": "https://github.com/rogerluan/app-store-connect-notifier",
+  "stack": "heroku-18",
   "buildpacks": [
     {
       "url": "heroku/nodejs"
